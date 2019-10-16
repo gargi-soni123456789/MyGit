@@ -2,9 +2,9 @@
 
 class HelloGit
 {
-static public void myMethod()
+public static String myMethod()
 {
-	sysout("my method");
+	return "my method";
 }
 public static void main(String args[])
 	{
